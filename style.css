@@ -1,0 +1,23 @@
+h1 {
+  color: #ff0000;
+}
+
+h2 {
+  color: #ff0000;
+}
+
+h1 {
+  background-color: #ee48;
+}
+
+h1,
+h2 {
+  font-family: Arial, Verndana, sans-serif;
+}
+
+p1 {
+  font-style: italic;
+}
+
+p.one {
+  border-style: ridge;

@@ -1,23 +1,36 @@
-h1 {
-  color: #ff0000;
+h1,h2{
+  color: #990000;
 }
 
 h2 {
-  color: #ff0000;
+  color: #990000;
 }
 
-h1 {
-  background-color: #ee48;
+h1,h2{
+  background-color: #0099cc;
 }
 
-h1,
-h2 {
+h1,h2 {
   font-family: Arial, Verndana, sans-serif;
 }
 
 p1 {
-  font-style: italic;
+  font-style: bold;
+  border-style: solid;
 }
 
-p.one {
-  border-style: ridge;
+
+h1, h2 {
+  border-style: solid;
+}
+
+p {
+  text-align: left;
+}
+
+.italic {
+    font-style: italic;
+}
+.red {
+  background-color: red;
+}
